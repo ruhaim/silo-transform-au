@@ -1,0 +1,380 @@
+{
+  "ProductDetail": [
+    {
+      "id": 9306,
+      "name": "Record Id",
+      "machineName": "record_id",
+      "type": 13,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "237293",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9307,
+      "name": "Product",
+      "machineName": "product",
+      "type": 12,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "Gourmet Naan Bread Mix",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9308,
+      "name": "Category",
+      "machineName": "category",
+      "type": 7,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "baking ingredients & mixes",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9309,
+      "name": "Category ID",
+      "machineName": "category_id",
+      "type": 1,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "7",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9310,
+      "name": "Currency",
+      "machineName": "currency",
+      "type": 1,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "AUD",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9311,
+      "name": "Price",
+      "machineName": "price",
+      "type": 1,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "10.00",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9312,
+      "name": "Variant",
+      "machineName": "variant",
+      "type": 14,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "76515",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9313,
+      "name": "Images",
+      "machineName": "images",
+      "type": 3,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "20fbc0b3-3fe3-44f9-8545-1375679de59f.jpeg ce201567-ab0b-4ea1-b745-78303baf4ea4.jpeg c41e1341-37d6-4703-9418-c4b58b0399f8.jpeg d8b16767-bea0-4550-b382-9a48dd40cd6b.jpeg 4d24b418-c948-42f9-a014-aec55b52bb00.jpeg",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9314,
+      "name": "Buy Sell",
+      "machineName": "buy_sell",
+      "type": 15,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "-1",
+      "isInherited": true,
+      "showInView": 0
+    },
+    {
+      "id": 9315,
+      "name": "q3questiontype",
+      "machineName": "q3questiontype",
+      "type": 1,
+      "isMandatory": true,
+      "isEditable": false,
+      "isUnique": false,
+      "defaultValue": "At $10.00 for 356.00 g",
+      "isInherited": true,
+      "showInView": 1
+    },
+    {
+      "id": 9316,
+      "name": "M_1834",
+      "machineName": "m_1834",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9317,
+      "name": "M_3554",
+      "machineName": "m_3554",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9318,
+      "name": "M_55",
+      "machineName": "m_55",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9319,
+      "name": "F_1834",
+      "machineName": "f_1834",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9320,
+      "name": "F_3554",
+      "machineName": "f_3554",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9321,
+      "name": "F_55",
+      "machineName": "f_55",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9322,
+      "name": "M_2134",
+      "machineName": "m_2134",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9323,
+      "name": "F_2134",
+      "machineName": "f_2134",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9324,
+      "name": "BM_1834",
+      "machineName": "bm_1834",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9325,
+      "name": "BM_35",
+      "machineName": "bm_35",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9326,
+      "name": "BF_1834",
+      "machineName": "bf_1834",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9327,
+      "name": "BF_35",
+      "machineName": "bf_35",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    },
+    {
+      "id": 9328,
+      "name": "priority",
+      "machineName": "priority",
+      "type": 9,
+      "isMandatory": true,
+      "isEditable": true,
+      "isUnique": false,
+      "defaultValue": "0",
+      "isInherited": true,
+      "showInView": -1
+    }
+  ],
+  "QuotaDetail": [
+    {
+      "id": 9316,
+      "name": "M_1834",
+      "count": 17,
+      "target": 17,
+      "complete": 0
+    },
+    {
+      "id": 9317,
+      "name": "M_3554",
+      "count": 16,
+      "target": 16,
+      "complete": 0
+    },
+    {
+      "id": 9318,
+      "name": "M_55",
+      "count": 17,
+      "target": 17,
+      "complete": 0
+    },
+    {
+      "id": 9319,
+      "name": "F_1834",
+      "count": 17,
+      "target": 17,
+      "complete": 0
+    },
+    {
+      "id": 9320,
+      "name": "F_3554",
+      "count": 17,
+      "target": 17,
+      "complete": 0
+    },
+    {
+      "id": 9321,
+      "name": "F_55",
+      "count": 16,
+      "target": 16,
+      "complete": 0
+    },
+    {
+      "id": 9322,
+      "name": "M_2134",
+      "count": 0,
+      "target": 0,
+      "complete": 0
+    },
+    {
+      "id": 9323,
+      "name": "F_2134",
+      "count": 0,
+      "target": 0,
+      "complete": 0
+    },
+    {
+      "id": 9324,
+      "name": "BM_1834",
+      "count": 0,
+      "target": 0,
+      "complete": 0
+    },
+    {
+      "id": 9325,
+      "name": "BM_35",
+      "count": 0,
+      "target": 0,
+      "complete": 0
+    },
+    {
+      "id": 9326,
+      "name": "BF_1834",
+      "count": 0,
+      "target": 0,
+      "complete": 0
+    },
+    {
+      "id": 9327,
+      "name": "BF_35",
+      "count": 0,
+      "target": 0,
+      "complete": 0
+    },
+    {
+      "id": 9328,
+      "name": "priority",
+      "count": 0,
+      "target": 0,
+      "complete": 0
+    },
+    {
+      "id": "",
+      "name": "Total",
+      "count": 100,
+      "target": 100,
+      "complete": 0
+    }
+  ]
+}

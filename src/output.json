@@ -1,0 +1,53 @@
+{
+  "referenceId": "1e2aa331-702e-48e0-9134-7163f0cf2faf",
+
+  "productDetails": [
+    {
+      "record_id": 10335,
+
+      "product": "TestCat2",
+
+      "category": "Cat1",
+
+      "category_id": "35",
+
+      "currency": "£",
+
+      "price": "2.49",
+
+      "variant": 1,
+
+      "images": [
+        "https://tulsa-images.s3.amazonaws.com/live/236386_2.jpeg?Signature=P0JqCfCzsFImIq2m%2Ftma5rLnSUY%3D&Expires=1692325216&AWSAccessKeyId=AKIAJZ6DBLKSIQOABVJA"
+      ],
+
+      "q3questiontype": "At £2.49 for 3 x 34.00 g",
+
+      "m_1834": 17,
+
+      "m_3554": 18,
+
+      "m_55": 15,
+
+      "f_1834": 17,
+
+      "f_3554": 17,
+
+      "f_55": 16,
+
+      "m_2134": 0,
+
+      "f_2134": 0,
+
+      "bm_1834": 0,
+
+      "bm_35": 0,
+
+      "bf_1834": 0,
+
+      "bf_35": 0,
+
+      "priority": 0
+    }
+  ]
+}
