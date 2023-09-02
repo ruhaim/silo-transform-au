@@ -66,12 +66,11 @@ export default function App() {
         <button>Convert</button>
       </form>
 
-      <label>Out</label>
+      <label>AU Out</label>
       <br />
       <code style={{ textAlign: "left" }}>
         <pre>{JSON.stringify(outJson, null, 2)}</pre>
       </code>
-      <h2>Start editing to see some magic happen!</h2>
     </div>
   );
 }
